@@ -1,0 +1,9 @@
+{
+	"app_server_ip": "192.168.8.142",
+	"app_server_port": 9999,
+	"db_server_ip": "localhost",
+	"db_server_port": 3306,
+	"db_user": "wh",
+	"db_password": "wh123",
+	"db_name": "shop"
+}
