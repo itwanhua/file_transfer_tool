@@ -172,7 +172,6 @@ def user_login(sock):
     函数功能：登录用户
     函数参数：套接字对象
     '''
-
     while True:
         user_name = input("\n用户名>>")
         user_passwd = getpass.getpass("密码>>")
