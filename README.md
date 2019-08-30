@@ -26,7 +26,7 @@
 
    ​		{
 
-   ​			"uname": "dengjun",
+   ​			"uname": "wanhua",
 
    ​			"passwd": "A24314FBECDFDASFD4143241",   # 真实密码的MD5值，使用大写表示
 
@@ -54,13 +54,13 @@
 
    ​		{
 
-   ​			"uname": "dengjun",
+   ​			"uname": "wanhua",
 
-   ​			"passwd": "A24314FBECDFDASFD4143241",   # 真实密码的MD5值，使用大写表示
+   ​			"passwd": "QWE231231WWE22",   # 真实密码的MD5值(32位)，使用大写表示
 
-   ​			"phone": "18574315251",  # 手机号
+   ​			"phone": "18512344312",  # 手机号
 
-   ​			"emai": "dj@itmojun.com"  # 邮箱
+   ​			"emai": "wh@ithz.xyz"  # 邮箱
 
    ​		}
 
@@ -86,7 +86,7 @@
 
    ​		{
 
-   ​			"uname": "dengjun"
+   ​			"uname": "wanhua"
 
    ​		}
 
