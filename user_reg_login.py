@@ -282,10 +282,8 @@ def user_center(user_name):
         elif op == "3":
             print("程序猿正在紧急写代码，敬请关注！")
         else:
-            print("输入错误，请重新输入！")
+            print("输入有误，请重新输入！")
 
-
-    
 
 
 
