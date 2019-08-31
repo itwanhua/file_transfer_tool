@@ -228,7 +228,7 @@ def main():
     print("----------")
 
     while True:
-        op = input("\n请选择功能序号>>")
+        op = input("\n请选择功能序号：")
         if op == "0":
             print("感谢使用，下次再见！")
             sys.exit(2)
